@@ -9,7 +9,7 @@ import '../style.css';
 
 
 class Home extends React.Component {
-  static displayName = 'Home';
+  static displayName = 'Hogar';
 
   render() {
     return (
